@@ -12,7 +12,7 @@ JOGL Plugins (Download ZIP fromn here [JOGL Plugins](https://drive.google.com/fi
 
 ### Installing
 
-Steps for installing JOGL Plugins in Netbeans can be found [here.](https://www.youtube.com/watch?v=t0ntwdDqqH4&t=35s)
+Steps for installing JOGL Plugins in Netbeans can be found [here](https://www.youtube.com/watch?v=t0ntwdDqqH4&t=35s)
 
 
 
