@@ -38,7 +38,7 @@ public class queue_animation implements GLEventListener {
    public void windowClosing(WindowEvent e) {
     // Run this on another thread than the AWT event queue to
     // make sure the call to Animator.stop() completes before
-    // exiting
+    // exiting DONT FORGET TO LIKE AND SUBSCRIBE
     new Thread(new Runnable() {
 
      public void run() {
